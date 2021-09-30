@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Movie Reviews
 
 You can use the [editor on GitHub](https://github.com/bluetoad1215/chitty-chitty-chit-chat/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# The Curious Case of Benjamin Button
 ## Header 2
 ### Header 3
 
