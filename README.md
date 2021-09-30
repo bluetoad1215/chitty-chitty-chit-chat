@@ -1,17 +1,10 @@
-## Movie Reviews
-
-You can use the [editor on GitHub](https://github.com/bluetoad1215/chitty-chitty-chit-chat/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Korean Fashion
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# The Curious Case of Benjamin Button
+# Long Coat
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fk-star-holic.blogspot.com%2F2018%2F10%2Fkim-tae-ri-i-want-to-follow.html&psig=AOvVaw3awg8Rb9aL7ZH1QqU8VQ84&ust=1633102423332000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiF9OmCp_MCFQAAAAAdAAAAABAe]
 ## Header 2
 ### Header 3
 
