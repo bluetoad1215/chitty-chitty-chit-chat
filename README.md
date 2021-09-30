@@ -3,7 +3,7 @@ Fall is coming, and nothing speaks Fall Korean fashion more than actress _Kim Ta
 
 
 ### Long Ovetrcoat with Thin Top and Skinny Jeans
-![https://t1.daumcdn.net/news/201810/07/tvdaily/20181007080302794pkkt.jpg](src)
+![Image name](https://t1.daumcdn.net/news/201810/07/tvdaily/20181007080302794pkkt.jpg)(src)
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fk-star-holic.blogspot.com%2F2018%2F10%2Fkim-tae-ri-i-want-to-follow.html&psig=AOvVaw3awg8Rb9aL7ZH1QqU8VQ84&ust=1633102423332000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiF9OmCp_MCFQAAAAAdAAAAABAe
 
 ### High Waisted Jeans with Loose Blouse
