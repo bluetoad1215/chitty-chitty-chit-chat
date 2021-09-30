@@ -7,3 +7,6 @@ Fall is coming, and nothing speaks Fall Korean fashion more than actress _Kim Ta
 
 ### High Waisted Jeans with Loose Blouse
 ![High Waisted Jeans with Loose Blouse](http://www.bntnews.co.uk/images/news/2019/5nbcb5f4ykxlyjypsq7nt5a2x7yhhk0b.jpg)
+
+### Link to her Wikipedia Page
+!(https://en.wikipedia.org/wiki/Kim_Tae-ri)
